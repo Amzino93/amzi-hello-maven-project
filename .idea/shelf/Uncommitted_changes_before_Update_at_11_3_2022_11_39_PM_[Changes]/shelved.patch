@@ -1,0 +1,21 @@
+Index: .idea/.gitignore
+===================================================================
+diff --git a/.idea/.gitignore b/.idea/.gitignore
+deleted file mode 100644
+--- a/.idea/.gitignore	(revision d952fb5b2fc60b80a85127a6897a448d9aefafae)
++++ /dev/null	(revision d952fb5b2fc60b80a85127a6897a448d9aefafae)
+@@ -1,13 +0,0 @@
+-
+-target/
+-pom.xml.tag
+-pom.xml.releaseBackup
+-pom.xml.versionsBackup
+-pom.xml.next
+-release.properties
+-dependency-reduced-pom.xml
+-buildNumber.properties
+-.mvn/timing.properties
+-# https://github.com/takari/maven-wrapper#usage-without-binary-jar
+-.mvn/wrapper/maven-wrapper.jar
+-workspace.xml
+\ No newline at end of file
